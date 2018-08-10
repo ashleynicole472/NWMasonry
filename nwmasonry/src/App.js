@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import About from './components/About/about.js';
-import Contact from './components/Contact/contact.js';
-import Reviews from './components/CustomerReviews/reviews.js';
-import Footer from './components/Footer/footer.js'
+import About from './Components/About/about.js';
+import Contact from './Components/Contact/contact.js';
+import Reviews from './Components/CustomerReviews/reviews.js';
+import Footer from './Components/Footer/footer.js'
 import './App.css';
 
 class App extends Component {
