@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import Navbar from './Components/NavBar/NavBar.js';
+import NavBar from './Components/NavBar/NavBar.js';
+import './bootstrap.min.css';
 import './App.css';
 
 class App extends Component {
