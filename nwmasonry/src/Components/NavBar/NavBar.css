@@ -1,1 +1,9 @@
+.navbar {
+    background-color: #003507 !important;
+}
 
+.welcomeSign {
+    height: 70%;
+    width: 100%;
+    margin-left: 10px;
+}
