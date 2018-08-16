@@ -5,7 +5,10 @@ class Contact extends Component {
     render(){
         return(
             <div className="contact-container">
-                <h1>Inside contact</h1>
+                <div className="row">
+                    <div className="col-sm-offset-2 col-sm-4">
+                    </div>
+                </div>
             </div>
         )
     }
