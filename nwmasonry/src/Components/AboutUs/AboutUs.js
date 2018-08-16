@@ -4,7 +4,11 @@ class About extends Component{
     render(){
         return(
             <div className="about-container">
-                <h1>Inside About</h1>
+                <div className="row">
+                    <div className="col-md-12">
+                        <h1>Inside About</h1>
+                    </div>
+                </div>
             </div>
         )
     }

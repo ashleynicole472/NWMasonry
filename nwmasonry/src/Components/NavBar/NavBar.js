@@ -7,7 +7,7 @@ class NavBar extends Component {
         return(
             <div classNameNameName="NavBar-Container">
                 <div className="row">
-                    <div className="col-md-12">
+                    <div className="col-sm-12">
                         <nav className="navbar navbar-expand-lg navbar-light bg-light">
                           <a className="navbar-brand ComapnyName" href="#">NW Masonry LLC</a>
                           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
