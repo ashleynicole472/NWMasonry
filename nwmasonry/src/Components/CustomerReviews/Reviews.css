@@ -9,6 +9,7 @@ h1 {
 }
 
 h2 {
+    color: #34403A;
     text-align: center;
 }
 
@@ -26,8 +27,9 @@ h2 {
 }
 
 .mask {
-  overflow: scroll;
+  overflow: hidden;
   height: 320px;
+  width: 100%;
 }
 
 .slider ul {
