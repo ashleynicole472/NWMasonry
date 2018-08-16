@@ -5,9 +5,13 @@ class Footer extends Component {
         return(
             <div className="footer-container">
                 <div className="row">
-                    <div className="col-md-12"
+                    <div className="col-md-12">
+                        <h1>Inside footer</h1>
+                    </div>
                 </div>
             </div>
         )
     }
 }
+
+export default Footer
