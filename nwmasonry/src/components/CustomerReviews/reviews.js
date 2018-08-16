@@ -7,58 +7,36 @@ class Reviews extends Component{
             <div classNameName="reviews-container">
                 <div className="row">
                     <div className="col-sm-6">
-                        <div id="carousel-example-generic" className="carousel slide" data-ride="carousel">
-
-                            {/*Wrapper for slides*/}
-                            <div className="carousel-inner" role="listbox">
-                                <div className="item active">
-                                    <div className="card text-white bg-primary mb-3">
-                                        <div className="card-body">
-                                            <blockquote className="blockquote text-right">
-                                            <p className="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                                            <footer className="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
-                                            </blockquote>
-                                        </div>
-                                    </div>
-
-                                </div>
-                                <div className="item">
-                                    <div className="card text-white bg-primary mb-3">
-                                        <div className="card-body">
-                                            <blockquote className="blockquote text-right">
-                                            <p className="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                                            <footer className="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
-                                            </blockquote>
-                                        </div>
-                                        <div className="card-body">
-                                            <blockquote className="blockquote text-right">
-                                            <p className="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                                            <footer className="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
-                                            </blockquote>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="item">
-                                    <div className="card text-white bg-primary mb-3">
-                                        <div className="card-body">
-                                            <blockquote className="blockquote text-right">
-                                            <p className="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                                            <footer className="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
-                                            </blockquote>
-                                        </div>
-                                    </div>
-                                </div>
+                        <div>
+                            <h2>Customer Testimonials</h2><hr />
+                        </div>
+                        <div className="content-slider">
+                          <div className="slider">
+                            <div className="mask">
+                              <ul>
+                                <li className="anim1">
+                                  <div className="quote">Hello, this is a quote from a person.</div>
+                                  <div className="source">- Person</div>
+                                </li>
+                                <li className="anim2">
+                                  <div className="quote">Hello, this is a quote from another person.</div>
+                                  <div className="source">- Another person</div>
+                                </li>
+                                <li className="anim3">
+                                  <div className="quote">Hello, this is a quote from an animal.</div>
+                                  <div className="source">- Animal</div>
+                                </li>
+                                <li className="anim4">
+                                  <div className="quote">Hello, this is a quote from a plant.</div>
+                                  <div className="source">- Plant</div>
+                                </li>
+                                <li className="anim5">
+                                  <div className="quote">How do ya like that.</div>
+                                  <div className="source">- Cassidy</div>
+                                </li>
+                              </ul>
                             </div>
-
-                            {/*Controls*/}
-                            <a className="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-                                <span className="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                                <span className="sr-only">Previous</span>
-                            </a>
-                            <a className="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-                                <span className="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                                <span className="sr-only">Next</span>
-                            </a>
+                          </div>
                         </div>
                     </div>
                 </div>
