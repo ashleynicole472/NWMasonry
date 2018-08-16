@@ -4,7 +4,6 @@ import WelcomeSign from './Components/WelcomeSign/WelcomeSign.js';
 import About from './Components/AboutUs/AboutUs.js';
 import Reviews from './Components/CustomerReviews/Reviews.js';
 import Footer from './Components/Footer/Footer.js';
-import './bootstrap.min.css';
 
 class App extends Component {
   render() {

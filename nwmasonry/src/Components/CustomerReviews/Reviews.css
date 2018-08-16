@@ -1,10 +1,15 @@
 .reviews-container{
     font-family: 'Droid Serif', serif;
+    margin-left: 10px;
 }
 
 h1 {
   font-size: 60px;
   text-align: center;
+}
+
+h2 {
+    text-align: center;
 }
 
 .content-slider {
@@ -21,7 +26,7 @@ h1 {
 }
 
 .mask {
-  overflow: hidden;
+  overflow: scroll;
   height: 320px;
 }
 
@@ -40,13 +45,29 @@ h1 {
 }
 
 .slider .quote {
-  font-size: 20vm;
+  font-size: 20px;
   font-style: italic;
+  margin-left: 25px;
 }
 
 .slider .source {
-  font-size: 15vm;
+  font-size: 20px;
   text-align: left;
+  margin-left: 35px;
+}
+
+@media (max-width: 100px) {
+    .slider .quote {
+      font-size: 10vw ;
+      font-style: italic;
+      margin-left: 15px;
+    }
+
+    .slider .source {
+      font-size: 5vw;
+      text-align: left;
+      margin-left: 20px;
+    }
 }
 
 .slider li.anim1 {

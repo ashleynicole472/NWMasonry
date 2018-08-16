@@ -6,7 +6,7 @@ class Reviews extends Component{
         return(
             <div classNameName="reviews-container">
                 <div className="row">
-                    <div className="col-sm-6">
+                    <div className="col-lg-6 col-sm-6">
                         <div>
                             <h2>Customer Testimonials</h2><hr />
                         </div>
@@ -15,11 +15,11 @@ class Reviews extends Component{
                             <div className="mask">
                               <ul>
                                 <li className="anim1">
-                                  <div className="quote">Hello, this is a quote from a person.</div>
+                                  <div className="quote">Hello, this is a quote from a person. They did amazing work, quick effective and clean</div>
                                   <div className="source">- Person</div>
                                 </li>
                                 <li className="anim2">
-                                  <div className="quote">Hello, this is a quote from another person.</div>
+                                  <div className="quote">Hello, this is a quote from another person. Russell and his team did such a fantastic job, I cant bleieve this is my house. I speak very highly of him and his team and hope to do business again!</div>
                                   <div className="source">- Another person</div>
                                 </li>
                                 <li className="anim3">
