@@ -9,9 +9,9 @@ class Footer extends Component {
                     <div className="col-md-4">
                         <h4 className="title-footer">Social</h4><hr/>
                         <ul>
-                            <li></li>
-                            <li></li>
-                            <li></li>
+                            <li className="li-social-icon"><i className="fab fa-twitter-square Social-icon"></i></li>
+                            <li className="li-social-icon"><i className="fab fa-google-plus-square Social-icon"></i></li>
+                            <li className="li-social-icon"><i className="fab fa-facebook Social-icon"></i></li>
                         </ul>
                     </div>
                     <div className="col-md-4">

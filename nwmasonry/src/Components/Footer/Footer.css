@@ -34,3 +34,15 @@
     align-content: center;
     color: #34403A !important;
 }
+
+.Social-icon {
+    font-size: 55px;
+    padding-left: 25px;
+}
+
+.li-social-icon{
+    display: inline-block;
+    margin-right: -.25em;
+    position: relative;
+    top: 1.25em;
+}
