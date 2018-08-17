@@ -14,3 +14,7 @@ li {
     font-size: 20px;
     margin-right: 10px;
 }
+
+a:hover {
+    color: #7F7F7F !important;
+}

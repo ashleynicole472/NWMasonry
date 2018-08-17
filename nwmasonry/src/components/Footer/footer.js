@@ -18,11 +18,17 @@ class Footer extends Component {
                         <h4>BBB</h4><hr/>
                         <ul>
                             <li>
-                                <a href="https://www.bbb.org/us/wa/vancouver/profile/mason-contractors/nw-masonry-llc-1296-22649156" target="#">
-                                    Better Business Burearu A+
+                                <a
+                                    className="footer-links"
+                                    href="https://www.bbb.org/us/wa/vancouver/profile/mason-contractors/nw-masonry-llc-1296-22649156"
+                                    target="#">
+                                    Better Business Burearu
                                 </a>
                             </li>
                         </ul>
+                        <div className="col-md-4">
+                            
+                        </div>
 
                     </div>
                     <div className="col-md-4">

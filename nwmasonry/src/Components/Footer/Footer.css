@@ -14,10 +14,10 @@ ul {
 }
 
 a {
-    color: #F5F9E9 !important;
+    color: #34403A !important;
     text-decoration: none !important;
 }
 
-a:hover {
-    color: #9BC4CB !important;
+.footer-links:hover {
+    color: #C2C1A5 !important;
 }
