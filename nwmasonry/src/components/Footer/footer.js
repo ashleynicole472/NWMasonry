@@ -29,10 +29,10 @@ class Footer extends Component {
                         <div className="row">
                             <div className="col-md-4">
                                 <div className="card border-primary mb-3">
-                                    <div className="card-header">BBB Rating</div>
+                                    <div className="card-header"><p id="rating-text">BBB Rating</p></div>
                                     <div className="card-body">
                                         <h4 className="card-title" id="rating-text">A+</h4>
-                                        <a href="" className="card-text" target="#">Overview of BBB Ratings</a>
+                                        <a href="https://www.bbb.org/us/wa/vancouver/profile/mason-contractors/nw-masonry-llc-1296-22649156" className="card-text" target="#">Overview of BBB Ratings</a>
                                     </div>
                                 </div>
                             </div>
