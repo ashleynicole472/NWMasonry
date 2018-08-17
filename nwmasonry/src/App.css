@@ -3,6 +3,10 @@ a {
     text-decoration: none !important;
 }
 
+a:hover {
+    color: #7F7F7F !important;
+}
+
 h4 {
     text-align: center;
 }

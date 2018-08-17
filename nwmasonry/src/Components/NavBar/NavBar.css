@@ -1,8 +1,5 @@
 .navbar {
-    top: 0;
-    z-index: 100;
-    position: fixed !important;
-    width: 100%;
+
 }
 
 .ComapnyName{
@@ -10,11 +7,7 @@
     font-size: 25px;
 }
 
-li {
+.nav-item {
     font-size: 20px;
     margin-right: 10px;
-}
-
-a:hover {
-    color: #7F7F7F !important;
 }

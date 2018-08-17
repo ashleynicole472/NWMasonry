@@ -7,7 +7,7 @@ class Footer extends Component {
             <div className="footer-container">
                 <div className="row">
                     <div className="col-md-4">
-                        <h4>Social</h4><hr/>
+                        <h4 className="title-footer">Social</h4><hr/>
                         <ul>
                             <li></li>
                             <li></li>
@@ -15,7 +15,7 @@ class Footer extends Component {
                         </ul>
                     </div>
                     <div className="col-md-4">
-                        <h4>BBB</h4><hr/>
+                        <h4 className="title-footer">BBB</h4><hr/>
                         <div className="row">
                             <div className="col-md-4">
                             </div>
@@ -34,7 +34,7 @@ class Footer extends Component {
                         </div>
                     </div>
                     <div className="col-md-4">
-                        <h4>Contact</h4><hr />
+                        <h4 className="title-footer">Contact</h4><hr />
                         <ul>
                             <li className="li-text">
                                 <i className="fas fa-map-marked"></i>
