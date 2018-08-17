@@ -41,9 +41,40 @@ class Footer extends Component {
                     <div className="col-md-4">
                         <h4>Contact</h4><hr />
                         <ul>
-                            <li className="li-text"><i className="fas fa-phone"></i> Phone:</li>
-                            <li className="li-text"><i className="fas fa-at"></i> Email: NWMasonryllc05@gmail.com</li>
-                            <li className="li-text"><i className="fas fa-fax"></i> Fax: </li>
+                            <li className="li-text">
+                                <i className="fas fa-map-marked"></i>
+                                    Address: <br />
+                                    <div className="li-indent-text">
+                                        13203 SE 172nd Ave<br/>
+                                    </div>
+                                    <div className="li-indent-text">
+                                        Ste 166-700<br />
+                                    </div>
+                                    <div className="li-indent-text">
+                                        Happy Valley, OR 97086
+                                    </div>
+                                </li>
+                            <li className="li-text">
+                                <i className="fas fa-phone"></i>
+                                Phone:
+                                <div className="li-indent-text">
+                                    (360)513-8352
+                                </div>
+                            </li>
+                            <li className="li-text">
+                                <i className="fas fa-at"></i>
+                                Email:
+                                <div className="li-indent-text">
+                                    NWMasonryllc05@gmail.com
+                                </div>
+                            </li>
+                            <li className="li-text">
+                                <i className="fas fa-fax"></i>
+                                Fax:
+                                <div className="li-indent-text">
+                                    (360)597-4798
+                                </div>
+                            </li>
                         </ul>
                     </div>
                 </div>

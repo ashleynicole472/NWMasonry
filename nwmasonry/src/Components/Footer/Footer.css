@@ -17,6 +17,11 @@ ul {
     font-family: 'Abel', sans-serif !important;
 }
 
+.li-indent-text {
+    font-family: 'Abel', sans-serif !important;
+    text-indent: 50px;
+}
+
 a {
     color: #34403A !important;
     text-decoration: none !important;
