@@ -43,7 +43,7 @@ class Footer extends Component {
                         <ul>
                             <li><i className="fas fa-phone"></i> Phone:</li>
                             <li><i className="fas fa-at"></i> Email: NWMasonryllc05@gmail.com</li>
-                            <li></li>
+                            <li><i className="fas fa-fax"></i> Fax: </li>
                         </ul>
                     </div>
                 </div>
