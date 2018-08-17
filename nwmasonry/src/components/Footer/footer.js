@@ -16,25 +16,20 @@ class Footer extends Component {
                     </div>
                     <div className="col-md-4">
                         <h4>BBB</h4><hr/>
-                        <ul>
-                            <li>
-                                <a
-                                    className="footer-links"
-                                    href="https://www.bbb.org/us/wa/vancouver/profile/mason-contractors/nw-masonry-llc-1296-22649156"
-                                    target="#">
-                                    Better Business Burearu
-                                </a>
-                            </li>
-                        </ul>
                         <div className="row">
                             <div className="col-md-4">
-                                <div className="card border-primary mb-3">
-                                    <div className="card-header"><p id="rating-text">BBB Rating</p></div>
-                                    <div className="card-body">
-                                        <h4 className="card-title" id="rating-text">A+</h4>
-                                        <a href="https://www.bbb.org/us/wa/vancouver/profile/mason-contractors/nw-masonry-llc-1296-22649156" className="card-text" target="#">Overview of BBB Ratings</a>
-                                    </div>
+                            </div>
+                            <div className="col-md-4">
+                                <div className="bbb-rating">
+                                    <p id="rating-text">BBB Rating</p>
+                                    <h4 className="card-title" id="rating-text">A+</h4>
+                                    <a href="https://www.bbb.org/us/wa/vancouver/profile/mason-contractors/nw-masonry-llc-1296-22649156"
+                                        className="card-text"
+                                        target="#">Overview of this BBB Rating
+                                    </a>
                                 </div>
+                            </div>
+                            <div className="col-md-4">
                             </div>
                         </div>
                     </div>

@@ -1,0 +1,16 @@
+a {
+    color: #34403A !important;
+    text-decoration: none !important;
+}
+
+h4 {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+.card {
+    max-width: 20rem;
+}
