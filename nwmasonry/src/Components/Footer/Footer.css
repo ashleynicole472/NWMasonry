@@ -21,3 +21,11 @@ a {
 .footer-links:hover {
     color: #C2C1A5 !important;
 }
+
+.card {
+    max-width: 20rem;
+}
+
+#rating-text {
+    align-content: center;
+}

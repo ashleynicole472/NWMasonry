@@ -26,13 +26,25 @@ class Footer extends Component {
                                 </a>
                             </li>
                         </ul>
-                        <div className="col-md-4">
-                            
+                        <div className="row">
+                            <div className="col-md-4">
+                                <div className="card border-primary mb-3">
+                                    <div className="card-header">BBB Rating</div>
+                                    <div className="card-body">
+                                        <h4 className="card-title" id="rating-text">A+</h4>
+                                        <a href="" className="card-text" target="#">Overview of BBB Ratings</a>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-
                     </div>
                     <div className="col-md-4">
                         <h4>Contact</h4><hr />
+                        <ul>
+                            <li><i className="fas fa-phone"></i> Phone:</li>
+                            <li><i className="fas fa-at"></i> Email: NWMasonryllc05@gmail.com</li>
+                            <li></li>
+                        </ul>
                     </div>
                 </div>
             </div>
