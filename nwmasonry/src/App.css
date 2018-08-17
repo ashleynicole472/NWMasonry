@@ -7,6 +7,16 @@ a:hover {
     color: #7F7F7F !important;
 }
 
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+h2 {
+    color: #34403A;
+    text-align: center;
+}
+
 h4 {
     text-align: center;
 }
