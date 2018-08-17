@@ -7,7 +7,7 @@ class Reviews extends Component{
             <div classNameName="reviews-container">
                 <div className="row">
                     <div className="col-lg-6 col-lg-6">
-                        <h2>Customer Testimonials</h2><hr />
+                        <h2 className="Testimonial-text">Testimonials</h2><hr />
                         <div className="content-slider">
                           <div className="slider">
                             <div className="mask">

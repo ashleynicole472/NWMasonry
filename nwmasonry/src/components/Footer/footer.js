@@ -41,9 +41,9 @@ class Footer extends Component {
                     <div className="col-md-4">
                         <h4>Contact</h4><hr />
                         <ul>
-                            <li><i className="fas fa-phone"></i> Phone:</li>
-                            <li><i className="fas fa-at"></i> Email: NWMasonryllc05@gmail.com</li>
-                            <li><i className="fas fa-fax"></i> Fax: </li>
+                            <li className="li-text"><i className="fas fa-phone"></i> Phone:</li>
+                            <li className="li-text"><i className="fas fa-at"></i> Email: NWMasonryllc05@gmail.com</li>
+                            <li className="li-text"><i className="fas fa-fax"></i> Fax: </li>
                         </ul>
                     </div>
                 </div>

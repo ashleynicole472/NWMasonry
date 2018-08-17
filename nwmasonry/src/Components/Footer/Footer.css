@@ -13,6 +13,10 @@ ul {
     list-style: none;
 }
 
+.li-text {
+    font-family: 'Abel', sans-serif !important;
+}
+
 a {
     color: #34403A !important;
     text-decoration: none !important;
