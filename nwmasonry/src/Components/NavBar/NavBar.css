@@ -14,17 +14,3 @@
     font-size: 20px;
     margin-right: 10px;
 }
-
-img {
-    display: block;
-    position: relative;
-    width: 10vw;
-    height: 10vw;
-}
-
-@media (max-width 1000px) {
-    .logo {
-        height: 15vw;
-        width: auto;
-    }
-}

@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Logo from './Logo/NW 05 BrickRed.png';
 import './NavBar.css';
 
 
@@ -10,10 +9,6 @@ class NavBar extends Component {
                 <div className="row">
                     <div className="col-sm-12">
                         <nav className="navbar navbar-expand-lg navbar-fixed-top navbar-light bg-light">
-                            <img
-                                src={Logo}
-                                className="logo"
-                                alt="NW Masonry logo" />
                             <h2 className="navbar-brand ComapnyName">NW Masonry LLC</h2>
                           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
                             <span className="navbar-toggler-icon"></span>

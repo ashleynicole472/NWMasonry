@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './WelcomeSign.css';
-import WelcomeSign from './Images/NWMWelcomeSign.png';
+import WelcomeSign from './Images/welcomeSign.png';
 
 
 class WelcomeSignLogo extends Component{
