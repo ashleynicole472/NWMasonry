@@ -24,7 +24,7 @@ class Footer extends Component {
                                     <p id="rating-text">BBB Rating</p>
                                     <h4 className="card-title" id="rating-text">A+</h4>
                                     <a href="https://www.bbb.org/us/wa/vancouver/profile/mason-contractors/nw-masonry-llc-1296-22649156"
-                                        className="card-text"
+                                        className="link-bbb"
                                         target="#">Overview of this BBB Rating
                                     </a>
                                 </div>

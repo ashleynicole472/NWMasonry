@@ -10,7 +10,7 @@
 }
 
 .bbb-rating {
-    background-color: #660000;
+    background-color: #a89393;
     padding: 10px;
     border-radius: 22px;
     box-shadow: 5px 5px 5px grey;
@@ -32,10 +32,6 @@
 
 #rating-text {
     align-content: center;
-    color: #ebf0f1 !important;
-}
-
-#card-text {
     color: #ebf0f1 !important;
 }
 
