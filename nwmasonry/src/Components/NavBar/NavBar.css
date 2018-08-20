@@ -6,11 +6,16 @@
 }
 
 .ComapnyName{
-    color: #34403A !important;
+    color: ##660000 !important;
     font-size: 25px;
 }
 
 .nav-item {
-    font-size: 20px;
+    font-size: 25px;
     margin-right: 10px;
+}
+
+.logo {
+    height: 120px;
+    width: auto;
 }

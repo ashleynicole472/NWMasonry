@@ -4,7 +4,7 @@ a {
 }
 
 a:hover {
-    color: #7F7F7F !important;
+    color: #660000 !important;
 }
 
 h1 {
@@ -13,7 +13,7 @@ h1 {
 }
 
 h2 {
-    color: #34403A;
+    color: #660000;
     text-align: center;
 }
 
