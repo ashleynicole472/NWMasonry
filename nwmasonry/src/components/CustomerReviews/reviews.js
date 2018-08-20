@@ -7,7 +7,7 @@ class Reviews extends Component{
         return(
             <div classNameName="reviews-container">
                 <div className="row">
-                    <div className="col-sm-6 col-sm-6">
+                    <div className="col-sm-6 col-sm-6 ">
                         <h2 className="Testimonial-text">Testimonials</h2><hr />
                         <div className="content-slider">
                           <div className="slider">

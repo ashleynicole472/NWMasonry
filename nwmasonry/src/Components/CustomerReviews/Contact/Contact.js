@@ -18,7 +18,11 @@ class Contact extends Component {
                         className="form-control"
                         placeholder="Phone number"
                         id="inputDefault" />
-
+                        <input
+                            type="text"
+                            className="form-control"
+                            placeholder="Budget $"
+                            id="inputDefault" />
                     <input
                         type="email"
                         className="form-control"
