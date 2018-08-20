@@ -14,12 +14,12 @@ class Contact extends Component {
                         placeholder="Name"
                         id="inputDefault" />
                     <input
-                        type="text"
+                        type="number"
                         className="form-control"
                         placeholder="Phone number"
                         id="inputDefault" />
                         <input
-                            type="text"
+                            type="number"
                             className="form-control"
                             placeholder="Budget $"
                             id="inputDefault" />
