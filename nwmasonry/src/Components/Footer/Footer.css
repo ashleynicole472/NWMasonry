@@ -1,8 +1,8 @@
 .footer-container {
     padding-top: 30px;
     padding-bottom: 50px;
-    background-color: #5f5f5f;
-    color: #F5F9E9;
+    background-color: #ebf0f1;
+    color: #660000;
 }
 
 .title-footer {
@@ -10,7 +10,7 @@
 }
 
 .bbb-rating {
-    background-color: #F5F9E9;
+    background-color: #660000;
     padding: 10px;
     border-radius: 22px;
     box-shadow: 5px 5px 5px grey;
@@ -22,7 +22,7 @@
 
 .li-indent-text {
     font-family: 'Lato', sans-serif !important;
-    color: #9BC4CB !important;
+    color: #e10000 !important;
     text-indent: 50px;
 }
 
@@ -32,7 +32,11 @@
 
 #rating-text {
     align-content: center;
-    color: #34403A !important;
+    color: #ebf0f1 !important;
+}
+
+#card-text {
+    color: #ebf0f1 !important;
 }
 
 .Social-icon {
