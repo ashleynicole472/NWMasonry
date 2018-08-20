@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Logo from './Logo/NW 05 Black-1.png';
+import Logo from './Logo/NW 05 BrickRed.png';
 import './NavBar.css';
 
 

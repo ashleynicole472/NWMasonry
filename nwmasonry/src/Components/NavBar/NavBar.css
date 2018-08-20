@@ -11,11 +11,20 @@
 }
 
 .nav-item {
-    font-size: 25px;
+    font-size: 20px;
     margin-right: 10px;
 }
 
-.logo {
-    height: 120px;
-    width: auto;
+img {
+    display: block;
+    position: relative;
+    width: 10vw;
+    height: 10vw;
+}
+
+@media (max-width 1000px) {
+    .logo {
+        height: 15vw;
+        width: auto;
+    }
 }
