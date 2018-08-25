@@ -11,6 +11,9 @@
 
 .bbb-rating {
     background-color: #fcf4e3;
+    border-style: groove;
+    border-width: 1px;
+    border-color: #5f5f5f;
     padding: 10px;
     border-radius: 22px;
     box-shadow: 5px 5px 5px grey;
