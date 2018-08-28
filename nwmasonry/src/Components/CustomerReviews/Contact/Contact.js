@@ -3,6 +3,16 @@ import './Contact.css';
 
 
 class Contact extends Component {
+    constructor(props){
+        super(props);
+        this.state = {
+            nameInput: '',
+            phoneNumberInput: '',
+            budgetInput: '',
+            emailInput: '',
+            messageInput: ''
+        }
+    }
     render(){
         return(
             <div className="col-sm-6 contact-container">
@@ -10,6 +20,7 @@ class Contact extends Component {
                 <div className="form-group">
                     <input
                         type="text"
+
                         className="form-control"
                         placeholder="Name"
                         id="inputDefault" />
