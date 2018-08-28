@@ -1,9 +1,12 @@
 import React, { Component } from 'react';
+import './ProjectGallery.css';
 
 class ProjectGallery extends Component{
     render(){
         return(
-            <h1>Inside project Gallery</h1>
+            <div className="gallery-container">
+                <h1>Inside project Gallery</h1>
+            </div>
         )
     }
 }
